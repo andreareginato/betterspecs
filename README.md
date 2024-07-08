@@ -1,6 +1,6 @@
 # betterspecs.org
 
-Source code for [alpha.betterspecs.org](https://alpha.betterspecs.org)
+Source code for [betterspecs.org](https://betterspecs.org)
 
 ## Requirements
 
@@ -16,7 +16,7 @@ RSpec Best Practices website is tested against MRI 2.7.0
 
 ## Resources
 
-[alpha.betterspecs.org](https://alpha.betterspecs.org)
+[betterspecs.org](https://betterspecs.org)
 
 ## Contributing
 
@@ -29,7 +29,7 @@ Use the [issue tracker](https://github.com/betterspecs/betterspecs/issues) for b
 ## Links
 
 * [GIT Repository](https://github.com/betterspecs/betterspecs)
-* [Betterspecs website](https://alpha.betterspecs.org)
+* [Betterspecs website](https://betterspecs.org)
 
 ## Authors
 
