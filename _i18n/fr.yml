@@ -90,8 +90,8 @@ fr:
       fourth: "Sur un vieux project vous pouvez toujours utiliser \
         <a href='https://github.com/yujinakayama/transpec'>transpec</a> pour \
         les convertir dans la nouvelle syntaxe. Pour en savoir plus sur la nouvelle syntaxe \
-        <a href='http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax'>c'est ici</a> \
-        et <a href='http://myronmars.to/n/dev-blog/2013/07/the-plan-for-rspec-3#what_about_the_old_expectationmock_syntax'>ici</a>."
+        <a href='http://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/'>c'est ici</a> \
+        et <a href='http://rspec.info/blog/2013/07/the-plan-for-rspec-3/#what_about_the_old_expectationmock_syntax'>ici</a>."
   subject:
     title: Utiliser «subject"
     body:
@@ -123,7 +123,7 @@ fr:
       second: "Utiliser des «mocks» rend vos spécifications plus rapides \
         mais elles sont plus difficiles à utiliser. Vous avez besoin de \
         les maîtriser pour bien les utiliser. Lire plus \
-        <a href='http://myronmars.to/n/dev-blog/2012/06/thoughts-on-mocking'>à propos</a>."
+        <a href='https://web.archive.org/web/20220612005103/http://myronmars.to/n/dev-blog/2012/06/thoughts-on-mocking'>à propos</a>."
   data:
     title: Créer seulement les données requises
     body: "Si vous avez déjà travaillé sur des projets de taille moyenne \
@@ -190,7 +190,7 @@ fr:
       first: "N'utiliser pas 'should' quand vous décrivez vos tests. \
         Utiliser la troisième personne au présent simple. Encore mieux \
         commencer à utiliser la nouvelle syntaxe \
-        <a href='http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax'>\
+        <a href='http://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/'>\
         «should»</a>
 syntax."
       second: "Voir <a href='https://github.com/should-not/should_not'>\

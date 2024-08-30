@@ -91,8 +91,8 @@ en:
         <a href='https://github.com/yujinakayama/transpec'>transpec</a> to \
         convert them to the new syntax. More about the new RSpec expectation \
         syntax can be found \
-        <a href='http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax'>here</a> \
-        and <a href='http://myronmars.to/n/dev-blog/2013/07/the-plan-for-rspec-3#what_about_the_old_expectationmock_syntax'>here</a>."
+        <a href='http://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/'>here</a> \
+        and <a href='http://rspec.info/blog/2013/07/the-plan-for-rspec-3/#what_about_the_old_expectationmock_syntax'>here</a>."
   subject:
     title: Use subject
     body:
@@ -125,7 +125,7 @@ en:
         application flow."
       second: "Mocking makes your specs faster but they are difficult to use. \
         You need to understand them well to use them well. Read \
-        <a href='http://myronmars.to/n/dev-blog/2012/06/thoughts-on-mocking'>this article</a> \
+        <a href='https://web.archive.org/web/20220612005103/http://myronmars.to/n/dev-blog/2012/06/thoughts-on-mocking'>this article</a> \
         to learn more about mocks."
   data:
     title: Create only the data you need
@@ -184,7 +184,7 @@ en:
     body:
       first: "Do not use should when describing your tests. Use the third \
         person in the present tense. Even better start using the new \
-        <a href='http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax'>expectation</a> syntax."
+        <a href='http://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/'>expectation</a> syntax."
       second: "See <a href='https://github.com/should-not/should_not'>the \
         should_not gem</a> for a way to enforce this in RSpec and \
         <a href='https://github.com/siyelo/should_clean'>the should_clean</a> \

@@ -91,8 +91,8 @@ pt-BR:
       <a href='https://github.com/yujinakayama/transpec'>transpec</a> para 
       convertê-los para a nova sintaxe. Leia mais sobre a nova sintaxe de 
       expectativa do RSpec 
-      <a href='http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax'>aqui</a> 
-      e <a href='http://myronmars.to/n/dev-blog/2013/07/the-plan-for-rspec-3#what_about_the_old_expectationmock_syntax'>aqui</a>."
+      <a href='http://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/'>aqui</a> 
+      e <a href='http://rspec.info/blog/2013/07/the-plan-for-rspec-3/#what_about_the_old_expectationmock_syntax'>aqui</a>."
   subject:
     title: Use subject
     body:
@@ -124,7 +124,7 @@ pt-BR:
         atualizar o fluxo da sua aplicação."
       second: "Utilizar mocks torna seus specs mais rápidos, mas eles são 
         difíceis de usar. Você precisa entendê-los bem para usá-los bem. Leia 
-        mais <a href='http://myronmars.to/n/dev-blog/2012/06/thoughts-on-mocking'>sobre</a>."
+        mais <a href='https://web.archive.org/web/20220612005103/http://myronmars.to/n/dev-blog/2012/06/thoughts-on-mocking'>sobre</a>."
   data:
     title: Crie apenas os dados necessários
     body: "Se você já trabalhou em um projeto de médio porte (mas também em 
@@ -185,7 +185,7 @@ pt-BR:
     body:
       first: "Não use should ao decrever seus testes. Use a terceira pessoa do 
       presente. Melhor ainda, comece a utilizar a nova 
-      <a href='http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax'>sintaxe de expectativa</a>."
+      <a href='http://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/'>sintaxe de expectativa</a>."
       second: "Veja a gem <a href='https://github.com/should-not/should_not'>should_not</a> 
         como uma forma de reforçar isto no RSpec e a gem 
         <a href='https://github.com/siyelo/should_clean'>should_clean</a> para 
